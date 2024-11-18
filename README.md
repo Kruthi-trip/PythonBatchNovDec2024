@@ -20,7 +20,7 @@ To see the latest local changes:
 
     git status
 
-To exactly see the changes made on a single file:
+To check/verify the modified contet in existing file:
 
     git diff
 
