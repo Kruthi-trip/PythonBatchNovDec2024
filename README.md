@@ -55,3 +55,23 @@ To get the latest changes:
 To create new branch:
 
     git checckout -b <new branch name>
+
+
+## Course Completed
+
+[class00 04th Nov 2024](Zoom link: https://drive.google.com/file/d/1xa8O9wD5h2BRJJiURuxu3bj-pWvjsNym/view?usp=drive_link)
+
+    00.Dev Setup
+        Installing IDE/Editor
+        Installing Python and Local Setup
+        Github Access, creting project
+
+[Class01 06th Nov 2024](Zoom link: https://drive.google.com/file/d/1QxTuxB_OFAKtDD2yitncBX60PH2I7Z-j/view?usp=drive_link)
+
+        git commands
+        markdown syntax
+        daily activity and usage
+    
+    01.Introduction
+        Importance of Python
+        Two versions of Python(2.x & 3.x)

@@ -1,0 +1,46 @@
+00.Dev Setup
+    Installing IDE/Editor
+    Installing Python and Local Setup
+    Github Access, creting project
+
+01.Introduction
+    Importance of Python
+    Two versions of Python(2.x & 3.x)
+    Built-in Functions
+    Comment operator
+    Keywords and identifiers
+    Line continuation and statement separator operations
+
+02.Basics
+    Arithmetic operations
+        divmod() Functions
+        practical problem solving
+        working with complex numbers
+        abs() Functions
+        operator precedence in arithmetic operations
+    String operations
+        Usage of single, double and triple quotes
+        len() Function
+        indexing and slicing strings
+        string attributes
+        string formatting:  old &new styles, f-strings
+        bytearray() amd byte() strings
+        unicode strings
+    usage of help
+    usage of pydoc
+
+03.Language Components
+    Relational operationsLogical operations
+    Boolean operations
+    Bitwise operations
+    Identity operations
+    range() Function
+    conditional operations
+    structural pattern matching
+    loops: for & while, break, continue, pass, sys.exit
+    Walrus operator
+
+04.Exception Handling
+    Exceptions hierarchy
+    Different types of errors, errors vs exception and exception groups
+    handling single and multiple Exceptions
