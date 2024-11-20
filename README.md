@@ -76,3 +76,11 @@ To create new branch:
         Importance of Python
         Two versions of Python(2.x & 3.x)
 
+[Class02 11th Nov 2024](Zoom link: https://drive.google.com/file/d/1l0AU_iQrUS8qI4sV82cm0-NhHZWiSrc3/view?usp=drive_link)
+
+    PIP 8 guidelines
+    built-in functions
+    comment operators
+    keywords and identifiers
+    line continuation and statement separator operators
+main
