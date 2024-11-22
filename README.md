@@ -79,7 +79,16 @@ To create new branch:
 [Class02 11th Nov 2024](Zoom link: https://drive.google.com/file/d/1l0AU_iQrUS8qI4sV82cm0-NhHZWiSrc3/view?usp=drive_link)
 
     PIP 8 guidelines
+    Shebang line
+    indentation Issues and best practices
     built-in functions
+    print function
+    Script mode vs interactive mode
+    Jupiter notebook usage
+    Ascii and unicode characters
+
+
+## Next Class
     comment operators
     keywords and identifiers
     line continuation and statement separator operators
