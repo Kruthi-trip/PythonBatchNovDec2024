@@ -1,0 +1,53 @@
+Reserved Keywords (35 in python 3.x)
+----------------------------------
+    False
+    None
+    True
+    and
+    as
+    assert
+    async
+    await
+    break
+    class
+    continue
+    def
+    del
+    elif
+    else
+    except
+    finally
+    for
+    from
+    global
+    if
+    import
+    in 
+    is
+    lambda
+    nonlocal
+    not
+
+
+Reserved Keywords (27 in python 2.x)
+------------------------------------
+    and
+    assert
+    break
+    class
+    elif
+    else
+    except
+    exec
+    global
+    if
+    import
+    in
+    or
+    pass
+    print
+    raise
+    yield
+
+
+NOTE: These reserved keywords should not be used for 
