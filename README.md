@@ -97,11 +97,15 @@ To create new branch:
         Arithmetic Operations
             +, -, , /, //, %, *
             divmod() function
+            compound operations
+
+## Next Class
+
             practical problem solving
             working with complex numbers
             abs() functions
             Operator precedence in arithmetic operations
 
 
-## Next Class
+
    
