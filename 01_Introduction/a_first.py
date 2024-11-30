@@ -20,6 +20,9 @@ print("num3")
 # - git push origin <branch_name> (push the changes to the remote repository)
 # create a pull request from github home page
 # merge request
+
+# after creating a new branch everyday, we need to pull everything form the main branch to view all the new data entered newly
+# git pull origin main
  
 
 #  to turn on interactive mode in the terminal, run python in the reminal
