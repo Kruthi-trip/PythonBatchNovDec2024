@@ -99,13 +99,20 @@ To create new branch:
             divmod() function
             compound operations
 
-## Next Class
+[Class04 15th Nov 2024](Zoom link: https://drive.google.com/file/d/1lUqxLoTb90Vp2cMV9ngE2aQacoFm2THQ/view?usp=drive_link)
+
 
             practical problem solving
             working with complex numbers
             abs() functions
             Operator precedence in arithmetic operations
 
+    String operations
+        Usage of single, double and triple quotes
+        len() function
+        indexing and slicing strings
 
+
+## Next Class
 
    
