@@ -126,6 +126,12 @@ To create new branch:
 [Class07 22nd Nov 2024](Zoom link: https://drive.google.com/file/d/1X8RTtN1PoaXW6bdruQY06XHw7P6yJvVZ/view?usp=drive_link)
 
 
+    String attributes
+
+
+
+[Class08 27th Nov 2024](Zoom link: https://drive.google.com/file/d/1rZ2UpRKimL7M4WXzCGksldWCn5srwtDP/view?usp=drive_link)
+
         String formatting: old and new styles, f-strings
         bytearray() and byte() strings
         unicode strings
