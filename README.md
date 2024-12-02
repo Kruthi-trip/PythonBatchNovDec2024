@@ -108,13 +108,22 @@ To create new branch:
             Operator precedence in arithmetic operations
 
 
-[Class06 22nd Nov 2024](Zoom link: https://drive.google.com/file/d/1OoyeiI-gnwhv3XAxc6MPQXyVf_XBlHfv/view?usp=drive_link)
+[Class05 20th Nov 2024](Zoom link: https://drive.google.com/file/d/1OoyeiI-gnwhv3XAxc6MPQXyVf_XBlHfv/view?usp=drive_link)
 
 
     String operations
         Usage of single, double and triple quotes
         len() function
         indexing and slicing strings
+
+
+[Class06 22nd Nov 2024](Zoom link: https://drive.google.com/file/d/1yYKNRbfJrrGlLrOAuhK4tN6LAO4fyFIo/view?usp=drive_link)
+
+
+        string attributes
+        String formatting: old and new styles, f-strings
+        bytearray() and byte() strings
+        unicode strings
 
 
 ## Next Class
