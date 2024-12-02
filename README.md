@@ -133,13 +133,29 @@ To create new branch:
 [Class08 27th Nov 2024](Zoom link: https://drive.google.com/file/d/1rZ2UpRKimL7M4WXzCGksldWCn5srwtDP/view?usp=drive_link)
 
         String formatting: old and new styles, f-strings
-        bytearray() and byte() strings
         unicode strings
 
 
 
+[Class09 29th Nov 2024](Zoom link: https://drive.google.com/file/d/1ZaxDi_7Wp8qJIvHPWjEs95sM4Uv5rzW2/view?usp=drive_link)
 
+        bytearray() and byte() strings
+        Usage of help
+        usage of pydoc
+
+    03.Language Components
+    Relational Operations
+    Logical Operations
 
 ## Next Class
 
-   
+     Boolean Operations
+    Bitwise Operations
+    Identity Operations
+    range() function
+
+
+    Conditional Operations
+    Structural Pattern Matching
+    Loops: for & while, break, continue, pass, sys.exit
+    Walrus Operator
