@@ -107,6 +107,10 @@ To create new branch:
             abs() functions
             Operator precedence in arithmetic operations
 
+
+[Class05 20th Nov 2024](Zoom link: https://drive.google.com/file/d/1OoyeiI-gnwhv3XAxc6MPQXyVf_XBlHfv/view?usp=drive_link)
+
+
     String operations
         Usage of single, double and triple quotes
         len() function
